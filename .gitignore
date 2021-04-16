@@ -1,0 +1,7 @@
+.DS_Store
+*.DS_Store
+client
+client.exe
+config.json
+qr.png
+test/*
