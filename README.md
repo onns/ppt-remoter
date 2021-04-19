@@ -1,6 +1,6 @@
 # ppt-remoter
 
-PowerPoint Remote Control
+PowerPoint/WPS Remote Control
 
 * It's easy to use! Click once and it works!
 * `Windows` only for now, `MacOS` and `Linux` will come soooooon.
